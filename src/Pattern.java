@@ -10,7 +10,7 @@ public class Pattern {
             int j=0;
             while(j<i+1)
             {
-                System.out.print("* ");
+                System.out.print(i);
                 j++;
             }
             System.out.println("");
